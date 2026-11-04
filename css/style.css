@@ -479,3 +479,5 @@ em,.it{font-style:italic;color:var(--emerald-txt)}
 .myth ul{list-style:none;margin:14px 0 0;padding:0;display:grid;gap:9px}
 .myth li{display:flex;gap:10px;font-size:14.5px;color:var(--txt-2)}
 .myth li::before{content:"";width:5px;height:5px;transform:rotate(45deg);margin-top:8px;flex:none;background:currentColor;opacity:.5}
+
+[hidden]{display:none!important}
